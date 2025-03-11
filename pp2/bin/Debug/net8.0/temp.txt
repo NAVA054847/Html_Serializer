@@ -1,0 +1,107 @@
+!DOCTYPE
+
+html lang="en"
+Attribute lang Value en
+
+head
+
+meta
+Attribute charset Value UTF-8
+
+meta
+Attribute name Value viewport
+Attribute content Value width=device-width, initial-scale=1.0
+
+title
+Document
+/title
+
+link
+Attribute rel Value stylesheet
+Attribute href Value game.css
+Attribute class Value nava
+
+/head
+
+body
+Attribute class Value a
+
+!--
+
+h1
+game
+/h1
+
+h1
+Attribute class Value a
+game
+/h1
+
+/header
+
+main
+
+div
+Attribute class Value X_O_bord
+
+div
+Attribute id Value square1
+Attribute class Value square
+/div
+
+div
+Attribute id Value square2
+Attribute class Value square
+/div
+
+div
+Attribute id Value square3
+Attribute class Value square
+/div
+
+div
+Attribute id Value square4
+Attribute class Value square
+/div
+
+div
+Attribute id Value square5
+Attribute class Value square
+/div
+
+div
+Attribute id Value square6
+Attribute class Value square
+/div
+
+div
+Attribute id Value square7
+Attribute class Value square
+/div
+
+div
+Attribute id Value square8
+Attribute class Value square
+/div
+
+div
+Attribute id Value square9
+Attribute class Value square
+/div
+
+/div
+
+/main
+
+!--
+
+/footer
+
+script
+Attribute src Value game.js
+Attribute class Value a
+/script
+
+/body
+
+/html

@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\bin\Debug\net8.0\pp2.exe
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\bin\Debug\net8.0\pp2.deps.json
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\bin\Debug\net8.0\pp2.runtimeconfig.json
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\bin\Debug\net8.0\pp2.dll
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\bin\Debug\net8.0\pp2.pdb
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\pp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\pp2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\pp2.AssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\pp2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\pp2.dll
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\refint\pp2.dll
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\pp2.pdb
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\pp2.genruntimeconfig.cache
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\obj\Debug\net8.0\ref\pp2.dll
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\bin\Debug\net8.0\fulltxt.txt
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\bin\Debug\net8.0\voidtext.txt
+C:\Users\USER\Desktop\לימודים תשפה\פרקטיקוד\tow\pp2\pp2\bin\Debug\net8.0\test.txt

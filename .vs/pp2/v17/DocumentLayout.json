@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|solutionrelative:pp2\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|solutionrelative:pp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\htmlelementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|solutionrelative:pp2\\htmlelementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|solutionrelative:pp2\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|solutionrelative:pp2\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|solutionrelative:pp2\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\fulltxt.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|solutionrelative:pp2\\fulltxt.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\voidtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19C69E48-90F0-48FA-AFBF-EED2937D2286}|pp2\\pp2.csproj|solutionrelative:pp2\\voidtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fulltxt.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\fulltxt.txt",
+              "RelativeDocumentMoniker": "pp2\\fulltxt.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\fulltxt.txt",
+              "RelativeToolTip": "pp2\\fulltxt.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-21T21:26:51.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "voidtext.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\voidtext.txt",
+              "RelativeDocumentMoniker": "pp2\\voidtext.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\voidtext.txt",
+              "RelativeToolTip": "pp2\\voidtext.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T11:25:27.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "pp2\\HtmlHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\HtmlHelper.cs",
+              "RelativeToolTip": "pp2\\HtmlHelper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:36:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlElement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\HtmlElement.cs",
+              "RelativeDocumentMoniker": "pp2\\HtmlElement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\HtmlElement.cs",
+              "RelativeToolTip": "pp2\\HtmlElement.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwFAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:20:42.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\test.txt",
+              "RelativeDocumentMoniker": "pp2\\test.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\test.txt",
+              "RelativeToolTip": "pp2\\test.txt",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T14:29:43.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\Program.cs",
+              "RelativeDocumentMoniker": "pp2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\Program.cs",
+              "RelativeToolTip": "pp2\\Program.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAOUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:53:52.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\Selector.cs",
+              "RelativeDocumentMoniker": "pp2\\Selector.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\Selector.cs",
+              "RelativeToolTip": "pp2\\Selector.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwG4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:50:13.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HtmlElementExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\HtmlElementExtensions.cs",
+              "RelativeDocumentMoniker": "pp2\\HtmlElementExtensions.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05EA\u05E9\u05E4\u05D4\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\tow\\pp2\\pp2\\HtmlElementExtensions.cs",
+              "RelativeToolTip": "pp2\\HtmlElementExtensions.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:57:00.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

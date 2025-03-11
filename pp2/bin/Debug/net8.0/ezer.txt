@@ -1,0 +1,109 @@
+nava
+!DOCTYPE html
+ 
+html
+Attribute: lang, Value: en
+ 
+head
+ 
+meta
+Attribute: charset, Value: UTF-8
+ 
+meta
+Attribute: name, Value: viewport
+Attribute: content, Value: width=device-width, initial-scale=1.0
+ 
+title
+Document
+/title
+ 
+link
+Attribute: rel, Value: stylesheet
+Attribute: href, Value: game.css
+ 
+/head
+ 
+body
+ 
+!-- <header
+ 
+h1
+game X_O
+/h1
+ 
+/header
+ --> 
+main
+ 
+div
+Attribute: class, Value: X_O_bord
+ 
+div
+Attribute: id, Value: square1
+Attribute: class, Value: square
+Attribute: onclick, Value: play(1)
+/div
+ 
+div
+Attribute: id, Value: square2
+Attribute: class, Value: square
+Attribute: onclick, Value: play(2)
+/div
+ 
+div
+Attribute: id, Value: square3
+Attribute: class, Value: square
+Attribute: onclick, Value: play(3)
+/div
+ 
+div
+Attribute: id, Value: square4
+Attribute: class, Value: square
+Attribute: onclick, Value: play(4)
+/div
+ 
+div
+Attribute: id, Value: square5
+Attribute: class, Value: square
+Attribute: onclick, Value: play(5)
+/div
+ 
+div
+Attribute: id, Value: square6
+Attribute: class, Value: square
+Attribute: onclick, Value: play(6)
+/div
+ 
+div
+Attribute: id, Value: square7
+Attribute: class, Value: square
+Attribute: onclick, Value: play(7)
+/div
+ 
+div
+Attribute: id, Value: square8
+Attribute: class, Value: square
+Attribute: onclick, Value: play(8)
+/div
+ 
+div
+Attribute: id, Value: square9
+Attribute: class, Value: square
+Attribute: onclick, Value: play(9)
+/div
+ 
+/div
+ 
+/main
+ 
+!-- <footer
+ 
+/footer
+ --> 
+script
+Attribute: src, Value: game.js
+/script
+ 
+/body
+ 
+/html

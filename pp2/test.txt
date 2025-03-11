@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="game.css" class="nava">
+</head>
+<body class="a">
+<!-- <header>
+<h1 >game X_O</h1>
+<h1 class="a" >game X_O</h1>
+
+</header> -->
+
+<main>
+<div class="X_O_bord">
+<div id="square1" class="square" ></div>
+<div id="square2" class="square"></div>
+<div id="square3" class="square"></div>
+<div id="square4" class="square"></div>
+<div id="square5" class="square"></div>
+<div id="square6" class="square"></div>
+<div id="square7" class="square"></div>
+<div id="square8" class="square"></div>
+<div id="square9" class="square"></div>
+
+</div>
+
+
+</main>
+<!-- <footer>
+
+</footer> -->
+
+
+
+    <script src="game.js" class="a"></script>
+</body>
+</html>
