@@ -167,6 +167,186 @@ innerhtml: <div>Example Content</div>
 
 
 ------------------------------------------------------------------------------------
+Html_Serialize
+
+Project Description
+
+This project is designed for processing and handling HTML files, while developing an infrastructure that allows implementing a Crawler (or Scraper).
+
+The tool enables analyzing the HTML structure and extracting useful information.
+
+Project Goals
+
+1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
+
+1️⃣ Develop a basic infrastructure for implementing a Crawler (or Scraper) for analyzing **HTML** pages.
+
+2️⃣ Create a system that converts **HTML** into **C#** objects.
+
+3️⃣ Build a hierarchical tree of **HTML** tags.
+
+4️⃣ Enable executing queries on the **HTML** tree using **CSS Selectors**.
+
+Project Structure
+
+The project consists of two main components:
+
+1️⃣ **Html Serializer** – A service for converting **HTML** pages into **C#** objects.
+
+2️⃣ **Html Query** – A service for querying the **HTML** structure using **CSS** Selectors.
+
+Details
+
+1️⃣ Html Serializer
+   
+This module is responsible for converting **HTML** into **C#** objects.
+
+It includes the following steps:
+
+Fetching a web page – Using HttpClient to request a web page and download the HTML content.
+Parsing by tags – Using Regular Expressions (Regex) to identify HTML tags and clean up unnecessary whitespace.
+HtmlElement class – Represents HTML tags as objects containing an ID (Id), tag name (Name), attributes (Attributes), class list (Classes), inner content (InnerHtml), and hierarchical relationships (Parent and Children).
+HtmlHelper class – Provides a list of HTML tags from a JSON file, implemented as a Singleton to prevent redundant loading.
+Building an HTML tree – Iterates over the tag list and constructs a hierarchy of HtmlElement objects.
+
+2️⃣ Html Query
+   
+This module is responsible for searching elements within the HTML tree using CSS Selectors.
+
+Selector class – Represents a selector containing search details such as tag name (TagName), ID (Id), and class list (Classes).
+Parsing Selector queries – Converts selector strings into Selector objects.
+Tree navigation functions:
+Descendants – Returns all child elements of a given element.
+Ancestors – Returns all parent elements of a given element.
+Searching elements in the tree by Selector – Implements a function that searches for elements in the tree using navigation functions.
+Avoiding duplicates – Uses a HashSet to prevent duplicate results in queries.
+Technologies & Tools
+Programming Language: C#
+Libraries: System.Net.Http, System.Text.Json, Regex
+Development Principles: Singleton, Queue for tree search management, HashSet for preventing duplicates
+Installation & Execution
+System Requirements
+.NET 6 or later
+Visual Studio (or any .NET-compatible development environment)
+Internet connection (to fetch HTML pages from the web)
+Steps to Install & Run 
+
+1️⃣ Clone the project.
+
+2️⃣ Open the project in Visual Studio.
+
+3️⃣ Run the build and execution commands: dotnet build followed by dotnet run.
+
+4️⃣ Modify the selector as needed.
+
+5️⃣ View the output in the console.
+
+Detailed Steps
+
+1️⃣ Clone the Project
+Download or clone the project source code from GitHub:
+
+
+    git clone https://github.com/NAVA054847/Html_Serializer.git
+   
+2️⃣ Open the Project
+
+Open the directory containing the code using Visual Studio or the command line.
+
+3️⃣ Compile & Run
+   
+Ensure the project is successfully built by running the following command:
+
+
+    dotnet build
+   
+To execute the application, run:
+
+
+    dotnet run
+    
+4️⃣ Modify the Target URL
+   
+To change the website URL you want to scrape, update the URL inside the quotes in the Program.cs file.
+
+For example, if you want to scrape https://example.com, modify this line:
+
+
+    var html = await Load("https://example.com");
+    
+The code will then fetch HTML content from the new URL you specified.
+
+Use a Local File Instead of a URL
+If you want to use a local file instead of fetching content from a URL, modify this line:
+
+
+    var html = File.ReadAllText("test.txt");
+    Where "test.txt" is a file located within your project.
+
+Modify the CSS Selector
+The line where you define the CSS Selector is:
+
+
+    string exam = "div";
+    Selector newss = Selector.convertt(exam);
+   
+You can replace "div" with the CSS selector you want to search for.
+
+For example, to find a <div> with the class "container", update it like this:
+
+
+    string exam = "div.container";
+    Selector newss = Selector.convertt(exam);
+
+5️⃣ Console Output
+
+After running the code, the output will be displayed in the Console.
+You will see all the elements that match your CSS Selector.
+
+For example, if searching for <div>, the output might look like this:
+
+
+name: div
+classes: class1 class2
+attribute: id
+id: div1
+innerhtml: <div>Example Content</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------
+
+
 
 
 
