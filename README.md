@@ -99,18 +99,18 @@ Visual Studio (או כל סביבת פיתוח תומכת .NET)
 
 פירוט:
 
-שכפול הפרויקט
+1. שכפול הפרויקט
 
 יש להוריד או לשכפל (clone) את קוד הפרויקט ממאגר ה-GitHub.
 
 
 git clone https://github.com/NAVA054847/Html_Serializer.git
 
-פתיחת הפרויקט
+2. פתיחת הפרויקט
 
 יש לפתוח את התיקייה המכילה את הקוד באמצעות **Visual Studio** או באמצעות שורת הפקודה.
 
-קומפילציה והרצה
+3. קומפילציה והרצה
 
 יש לוודא שהפרויקט נבנה בהצלחה על ידי הפעלת הפקודה הבאה במסוף:
 
@@ -133,8 +133,9 @@ git clone https://github.com/NAVA054847/Html_Serializer.git
 
 
     var html = File.ReadAllText("test.txt");
+    
+4.שורה בה אתה מכניס את הסלקטור של ה-CSS נמצאת כאן.
 
-שורה בה אתה מכניס את הסלקטור של ה-CSS נמצאת כאן:
 
     string exam = "div";
     Selector newss = Selector.convertt(exam);
@@ -147,7 +148,7 @@ git clone https://github.com/NAVA054847/Html_Serializer.git
     Selector newss = Selector.convertt(exam);
 
     
-לאחר הרצת הקוד, הפלט יופיע במסך ה-Console. 
+5. לאחר הרצת הקוד, הפלט יופיע במסך ה-Console. 
 
 אתה תראה את כל האלמנטים שנמצאו תואמים לסלקטור שציינת.
 
