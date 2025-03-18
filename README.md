@@ -165,7 +165,7 @@ attribute: id
 
 id: div1
 
-innerhtml: <div>Example Content</div>
+innerhtml:Example Content
 
 
 
