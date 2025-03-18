@@ -167,9 +167,9 @@ innerhtml: <div>Example Content</div>
 
 
 ------------------------------------------------------------------------------------
-Html_Serialize
+# Html_Serialize
 
-Project Description
+## Project Description
 
 This project is designed for processing and handling HTML files, while developing an infrastructure that allows implementing a Crawler (or Scraper).
 
@@ -177,7 +177,6 @@ The tool enables analyzing the HTML structure and extracting useful information.
 
 ## 🎯 Project Goals
 
-1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
 
 ✅ Develop a basic infrastructure for implementing a Crawler (or Scraper) for analyzing **HTML** pages.
 
@@ -187,7 +186,7 @@ The tool enables analyzing the HTML structure and extracting useful information.
 
 ✅ Enable executing queries on the **HTML** tree using **CSS Selectors**.
 
-  ## 🏗️Project Structure
+## 🏗️Project Structure
 
 The project consists of two main components:
 
@@ -195,7 +194,7 @@ The project consists of two main components:
 
 2️⃣ **Html Query** – A service for querying the **HTML** structure using **CSS** Selectors.
 
-Details
+## Details
 
 1️⃣ Html Serializer
    
@@ -204,9 +203,13 @@ This module is responsible for converting **HTML** into **C#** objects.
 It includes the following steps:
 
 Fetching a web page – Using HttpClient to request a web page and download the HTML content.
+
 Parsing by tags – Using Regular Expressions (Regex) to identify HTML tags and clean up unnecessary whitespace.
+
 HtmlElement class – Represents HTML tags as objects containing an ID (Id), tag name (Name), attributes (Attributes), class list (Classes), inner content (InnerHtml), and hierarchical relationships (Parent and Children).
+
 HtmlHelper class – Provides a list of HTML tags from a JSON file, implemented as a Singleton to prevent redundant loading.
+
 Building an HTML tree – Iterates over the tag list and constructs a hierarchy of HtmlElement objects.
 
 2️⃣ Html Query
@@ -215,21 +218,34 @@ This module is responsible for searching elements within the HTML tree using CSS
 
 Selector class – Represents a selector containing search details such as tag name (TagName), ID (Id), and class list (Classes).
 Parsing Selector queries – Converts selector strings into Selector objects.
+
 Tree navigation functions:
 Descendants – Returns all child elements of a given element.
+
 Ancestors – Returns all parent elements of a given element.
+
 Searching elements in the tree by Selector – Implements a function that searches for elements in the tree using navigation functions.
 Avoiding duplicates – Uses a HashSet to prevent duplicate results in queries.
-Technologies & Tools
-Programming Language: C#
-Libraries: System.Net.Http, System.Text.Json, Regex
+
+## Technologies & Tools:
+
+Programming Language: **C#**
+
+Libraries: **System.Net.Http**, **System.Text.Json**, **Regex**
+
 Development Principles: Singleton, Queue for tree search management, HashSet for preventing duplicates
-Installation & Execution
-System Requirements
+
+## Installation & Execution:
+
+**System Requirements**
+
 .NET 6 or later
+
 Visual Studio (or any .NET-compatible development environment)
+
 Internet connection (to fetch HTML pages from the web)
-Steps to Install & Run 
+
+## Steps to Install & Run 
 
 1️⃣ Clone the project.
 
@@ -241,7 +257,7 @@ Steps to Install & Run
 
 5️⃣ View the output in the console.
 
-Detailed Steps
+## Detailed Steps
 
 1️⃣ Clone the Project
 Download or clone the project source code from GitHub:
