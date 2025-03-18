@@ -151,15 +151,20 @@ For example, to find a <div> with the class "container", update it like this:
 5️⃣ Console Output
 
 After running the code, the output will be displayed in the Console.
-You will see all the elements that match your CSS Selector.
+
+You will see all the elements that match your **CSS** Selector.
 
 For example, if searching for <div>, the output might look like this:
 
 
 name: div
+
 classes: class1 class2
+
 attribute: id
+
 id: div1
+
 innerhtml: <div>Example Content</div>
 
 
