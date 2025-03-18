@@ -175,19 +175,19 @@ This project is designed for processing and handling HTML files, while developin
 
 The tool enables analyzing the HTML structure and extracting useful information.
 
-Project Goals
+## 🎯 Project Goals
 
 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
 
-1️⃣ Develop a basic infrastructure for implementing a Crawler (or Scraper) for analyzing **HTML** pages.
+✅ Develop a basic infrastructure for implementing a Crawler (or Scraper) for analyzing **HTML** pages.
 
-2️⃣ Create a system that converts **HTML** into **C#** objects.
+✅ Create a system that converts **HTML** into **C#** objects.
 
-3️⃣ Build a hierarchical tree of **HTML** tags.
+✅ Build a hierarchical tree of **HTML** tags.
 
-4️⃣ Enable executing queries on the **HTML** tree using **CSS Selectors**.
+✅ Enable executing queries on the **HTML** tree using **CSS Selectors**.
 
-Project Structure
+  ## 🏗️Project Structure
 
 The project consists of two main components:
 
