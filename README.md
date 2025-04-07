@@ -10,13 +10,13 @@ The tool enables analyzing the HTML structure and extracting useful information.
 ## 🎯 Project Goals
 
 
-✅ Develop a basic infrastructure for implementing a Crawler (or Scraper) for analyzing **HTML** pages.
+✔️ Develop a basic infrastructure for implementing a Crawler (or Scraper) for analyzing **HTML** pages.
 
-✅ Create a system that converts **HTML** into **C#** objects.
+✔️ Create a system that converts **HTML** into **C#** objects.
 
-✅ Build a hierarchical tree of **HTML** tags.
+✔️ Build a hierarchical tree of **HTML** tags.
 
-✅ Enable executing queries on the **HTML** tree using **CSS Selectors**.
+✔️ Enable executing queries on the **HTML** tree using **CSS Selectors**.
 
 ## 🏗️Project Structure
 
@@ -73,11 +73,11 @@ Parsing Selector queries – Converts selector strings into Selector objects.
 
 **⚙️ System Requirements**
 
-✅ .NET 6 or later
+✔️ .NET 6 or later
 
-✅ Visual Studio (or any .NET-compatible development environment)
+✔️ Visual Studio (or any .NET-compatible development environment)
 
-✅ Internet connection (to fetch HTML pages from the web)
+✔️ Internet connection (to fetch HTML pages from the web)
 
 ## Steps to Install & Run 
 
